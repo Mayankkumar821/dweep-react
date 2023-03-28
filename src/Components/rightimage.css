@@ -1,0 +1,15 @@
+.rightimage
+{display: flex;
+    flex-direction: column;
+    height:69vh;
+    margin-top:1vh;
+    width:40vw;
+           overflow: hidden;
+  align-items: center;
+    justify-content: center;
+}
+.logo
+{
+height:68vh;
+width:40vw;
+}

@@ -1,0 +1,27 @@
+.footerright
+{height:23vh;
+    padding:0vh;
+    margin-top:2vh;
+    margin-left: 26vw;
+    width:22vw;
+    padding:1vh;
+        font-family: 'Arial';
+font-style: normal;
+font-weight: 300;
+font-size: 1.1vw;
+line-height: 3vh;
+display: flex;
+color: white;
+
+}
+.footerright ul{
+    list-style: none;
+   
+}
+
+.footerright ul li{
+    margin-bottom:1vh ;
+    text-align: right;
+    cursor: pointer;
+}
+
